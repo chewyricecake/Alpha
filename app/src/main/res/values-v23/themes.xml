@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Alpha" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/light_silver</item>
+        <item name="colorPrimaryVariant">@color/platinum</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/auro_metal_saurus</item>
+        <item name="colorSecondaryVariant">@color/deep_space_sparkle</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarWidgetTheme">@style/MyActionBarWidgetTheme</item>
+    </style>
+
+    <style name="BottomNavigationTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/dark_blue</item>
+        <item name="android:textColorSecondary">@color/bottom_nav_text</item>
+    </style>
+
+    <style name="Theme.RemoveSplashScreenTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="MyActionBarWidgetTheme" parent="@android:style/Theme.Holo">
+        .....
+        .....
+        <item name="android:textColorHint">@color/bottom_nav_text</item>
+    </style>
+</resources>

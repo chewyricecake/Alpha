@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645674650163",
+    "project_id": "alpha-firestore",
+    "storage_bucket": "alpha-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645674650163:android:99cb448bce83fb93fd7146",
+        "android_client_info": {
+          "package_name": "com.example.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645674650163-u8v6gchgp8egoenn1mmcvtr819fsq96q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvT9o_oh8uSps0nUZPxIxZHUcoviQSMLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645674650163-u8v6gchgp8egoenn1mmcvtr819fsq96q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

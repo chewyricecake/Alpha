@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Explore"
+        android:icon="@drawable/explore_icon"
+        android:id="@+id/explore"/>
+    <item android:title="Go"
+        android:icon="@drawable/go_icon"
+        android:id="@+id/go"/>
+    <item android:title="Saved"
+        android:icon="@drawable/saved_icon"
+        android:id="@+id/saved"/>
+    <item android:title="Pay"
+        android:icon="@drawable/pay_icon"
+        android:id="@+id/pay"/>
+    <item android:title="Updates"
+        android:icon="@drawable/updates_icon"
+        android:id="@+id/updates"/>
+</menu>
