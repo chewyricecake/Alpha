@@ -1,4 +1,4 @@
---><h1>🅿️ Alpha App</h1>
+<h1>🅿️ Alpha App</h1>
 Welcome to the Alpha App! Built to provide you with a parking availability at your chosen spot!
 
 <h2>📷 Screenshots</h2>
