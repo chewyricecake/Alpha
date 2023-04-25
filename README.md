@@ -4,8 +4,9 @@ Welcome to the Alpha App! Built to provide you with a parking availability at yo
 <h2>📷 Screenshots</h2>
 
 <p float="left">
-  <!--<img src="https://user-images.githubusercontent.com/92000949/226064373-365a3bea-38a8-40a4-83ce-2f82d311b350.jpg" width="300" />-->
-  <!--<img src="https://user-images.githubusercontent.com/92000949/226064382-5d126f6d-2037-4bb5-962f-69d00f88333f.jpg" width="300" />-->
+  <img src="https://user-images.githubusercontent.com/92000949/234324299-05aee94e-3bfb-46c7-b4dd-956ba91abc5a.png" width="1200" />
+
+
 </p>
 
 <h2>🎯 Features</h2>
